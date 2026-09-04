@@ -1,0 +1,12 @@
+{
+  "name": "codeguard-dependency-test-fixture",
+  "private": true,
+  "dependencies": {
+    "fake-package": "*",
+    "bounded-package": "^1.2.3"
+  },
+  "devDependencies": {
+    "latest-package": "latest",
+    "unbounded-package": ">=1.0.0"
+  }
+}
